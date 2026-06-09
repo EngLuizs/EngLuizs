@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e3a5f&height=120&section=header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slick&color=1e3a5f&height=180&section=header&text=Luiz%20Henrique&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Engenharia%20Elétrica%20|%20Sistemas%20Embarcados&descAlignY=65&descSize=20" alt="Header">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&width=500&lines=Ol%C3%A1%2C+sou+Luiz+Henrique;Firmware+Embarcado+%7C+ESP32+%7C+KiCad;Hardware+%2B+Software+na+mesma+sintonia)](https://git.io/typing-svg)
 
@@ -44,7 +46,7 @@ Hardware para conversão, retificação e regulação de tensão com saída est�
   <img width="40" height="40" align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img width="40" height="40" align="center" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
   <img width="40" height="40" align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img width="40" height="40" align="center" alt="Git" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+  <img width="80" height="40" align="center" alt="Git" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
 </div>
 
 ---
