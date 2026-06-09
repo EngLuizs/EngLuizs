@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slick&color=1e3a5f&height=180&section=header&text=Luiz%20Henrique&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Engenharia%20Elétrica%20|%20Sistemas%20Embarcados&descAlignY=65&descSize=20" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1e3a5f&height=180&section=header&text=Luiz%20Henrique&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Engenharia%20El%C3%A9trica%20%7C%20Sistemas%20Embarcados&descAlignY=65&descSize=20" alt="Header">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&width=500&lines=Ol%C3%A1%2C+sou+Luiz+Henrique;Firmware+Embarcado+%7C+ESP32+%7C+KiCad;Hardware+%2B+Software+na+mesma+sintonia)](https://git.io/typing-svg)
