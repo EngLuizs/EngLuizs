@@ -10,9 +10,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-[cite_start]Sou Técnico em Eletrônica pelo Instituto Federal de São Paulo (IFSP) [cite: 29, 30] [cite_start]e atualmente curso Engenharia Elétrica na Universidade Paulista (UNIP)[cite: 4, 25, 26]. [cite_start]Possuo facilidade de aprendizado e forte interesse no desenvolvimento de soluções automatizadas, focando na intersecção perfeita entre o hardware e o software[cite: 6].
+Sou Técnico em Eletrônica pelo Instituto Federal de São Paulo (IFSP) [cite: 29, 30] [cite_start]e atualmente curso Engenharia Elétrica na Universidade Paulista (UNIP). Possuo facilidade de aprendizado e forte interesse no desenvolvimento de soluções automatizadas, focando na intersecção perfeita entre o hardware e o software[cite: 6].
 
-* [cite_start]**Foco principal:** Desenvolvimento de hardware, design de PCB (utilizando KiCad) e programação de firmware embarcado, com forte atuação utilizando o microcontrolador ESP32[cite: 6, 69, 82].
+* **Foco principal:** Desenvolvimento de hardware, design de PCB (utilizando KiCad) e programação de firmware embarcado, com forte atuação utilizando o microcontrolador ESP32[cite: 6, 69, 82].
 * [cite_start]**Linguagens de Programação:** C, C++ e Python[cite: 6, 36, 42].
 * **Comunicação & Protocolos:** Implementação de comunicação embarcada através de protocolos como UART, I2C, SPI e Modbus.
 * [cite_start]**Automação & Integração:** Experiência prática em eletrônica analógica e digital, automação industrial, desenvolvimento de bancadas de teste e calibração, além da criação de ferramentas internas para otimização de processos.
