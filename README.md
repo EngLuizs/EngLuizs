@@ -1,77 +1,118 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e3a5f&height=120&section=header"/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sou+Kaylan+Henrique;Desenvolvedor+Júnior;C%23+%7C+Python+%7C+PostgreSQL" alt="Typing SVG" />
-  </a>
-  <br>
-  <p><em>Formado em Análise e Desenvolvimento de Sistemas | Técnico em Eletrônica</em></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&width=500&lines=Ol%C3%A1%2C+sou+Luiz+Henrique+%F0%9F%91%8B;Firmware+Embarcado+%7C+ESP32+%7C+KiCad;Hardware+%2B+Software+na+mesma+sintonia)](https://git.io/typing-svg)
+
+🎯 Estudante de Engenharia Elétrica | Desenvolvedor de Firmware Embarcado | Design de PCB
+
+Técnico em Eletrônica pelo IFSP, cursando Engenharia Elétrica na UNIP. Atuo na intersecção entre hardware e software do design de PCB ao firmware embarcado com foco em automação, sistemas de baixo custo e soluções confiáveis para ambientes industriais e embarcados.
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🔹 [Irrigação Automática — TCC](https://github.com/EngLuizs/Tcc-Irrigacao-Automatica) 
+Sistema embarcado de baixo custo para hortas domésticas e comunitárias. ESP32 com controle via Bluetooth, sensores de umidade do solo, luminosidade, temperatura e chuva. Cúpula motorizada para proteção.
+- C, ESP32, Bluetooth
+
+### 🔹 [Robô Seguidor de Linha — RoboQuest 2024](https://github.com/EngLuizs/Robo-Seguidor-de-Linha) 
+Robô autônomo competitivo com navegação por sensores infravermelhos e controle de motores DC.
+- C, ESP32, TCRT5000, Ponte H L298N
+
+### 🔹 [Sumô de Robôs](https://github.com/EngLuizs/Sumo-de-Robos)
+Robô autônomo tático com detecção de adversário e estratégia de combate em firmware embarcado.
+- C, ESP32, Sensores ultrassônicos
+
+### 🔹 [Fonte Linear 12V](https://github.com/EngLuizs/Fonte_Linear_12V)
+Hardware para conversão, retificação e regulação de tensão com saída estável de 12V. Esquemáticos completos com estágios de filtragem e regulação de potência.
+- KiCad, Eletrônica Analógica
+
+---
+
+## 🌎 Encontre-me na web
+- 💼 [LinkedIn](https://www.linkedin.com/in/luizluzs/)
+- ✉️ eng.luizluz@gmail.com
+- 📸 [Instagram](https://www.instagram.com/eng.luizs/)
+- 👤 [Lattes] (http://lattes.cnpq.br/9573226927319153)
+
+---
+
+## 🛠 Stack
+
+<div style="display: inline_block">
+  <img width="40" height="40" align="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img width="40" height="40" align="center" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img width="40" height="40" align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width="40" height="40" align="center" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+  <img width="40" height="40" align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Conhecimentos
 
-Sou desenvolvedor com foco em backend, apaixonado por resolver problemas reais através de sistemas de suporte e automação. Atualmente, minhas principais ferramentas de trabalho são C# e Python, criando aplicações robustas com forte integração a banco de dados. 
+### Firmware Embarcado
 
-Possuo experiência prática em Suporte de TI pela Prefeitura de Pontal/SP, onde apliquei meus conhecimentos acadêmicos gerenciando Active Directory, domínios, configuração de redes IP e atendimento a chamados técnicos. Estou sempre em busca de aprendizado contínuo para superar desafios técnicos e impulsionar o sucesso dos projetos em que atuo.
+<details>
+<summary>Experiência com desenvolvimento de firmware para microcontroladores e sistemas embarcados.</summary>
 
----
+- [**ESP32**](https://www.espressif.com/): Microcontrolador principal para projetos com Wi-Fi e Bluetooth integrados.
+- [**Arduino**](https://www.arduino.cc/): Prototipagem rápida e desenvolvimento de sistemas embarcados simples e complexos.
+- **C / C++**: Linguagens principais para desenvolvimento de firmware de baixo nível.
+- **Protocolos de Comunicação:** Implementação embarcada via UART, I2C, SPI e Modbus.
+- **Automação e Bancadas de Teste:** Calibração de sensores e criação de ferramentas internas de validação.
 
-## 🛠️ Stack Tecnológico
-
-**Linguagens de Programação:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Bancos de Dados & Cloud:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-**Machine Learning & Dados:**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+</details>
 
 ---
 
-## 🚀 Projetos em Destaque
+### Design de Hardware e PCB
 
-### 🔹 [Sistema de Suporte de TI](https://github.com/YoungKayH/Suporte_TI)
-* Aplicação desktop completa para gerenciamento de chamados.
-* Conta com sistema de autenticação, abertura e gestão de tickets com integração direta ao banco de dados.
-* Tecnologias aplicadas: C# (Windows Forms) e PostgreSQL.
+<details>
+<summary>Experiência com projeto de circuitos eletrônicos e confecção de placas de circuito impresso.</summary>
 
-### 🔹 [Chatbot de Classificação de Chamados (IA)](https://github.com/YoungKayH/ia_pim)
-* Modelo de machine learning construído para classificar automaticamente solicitações de suporte técnico.
-* Reduz significativamente o tempo de triagem e melhora o direcionamento das demandas.
-* Tecnologias aplicadas: Python e PyTorch.
+- [**KiCad**](https://www.kicad.org/): Ferramenta principal para design de esquemáticos e layout de PCB.
+- **Eletrônica Analógica e Digital:** Projeto de fontes de alimentação, filtros, amplificadores e circuitos lógicos.
+- **Automação Industrial:** Experiência prática com sistemas de controle e integração de sensores industriais.
+- **Eletrônica de Potência:** Desenvolvimento de estágios de conversão, retificação e regulação de tensão.
 
-### 🔹 [THelp - Sistema de Suporte Técnico](https://github.com/YoungKayH/THelp-Desktop)
-* Aplicação desktop estruturada em camadas (Service) para gestão corporativa de chamados técnicos.
-* Organiza as solicitações de suporte de forma eficiente e escalável com integração a banco de dados.
-* Tecnologias aplicadas: Java (Swing).
+</details>
 
 ---
 
-## 📊 Estatísticas e Atividades
+### Programação em Python
+
+<details>
+<summary>Experiência com automação, scripts e ferramentas de análise de dados.</summary>
+
+- **Automação de Tarefas:** Criação de scripts para automatizar processos repetitivos e geração de relatórios.
+- **Ferramentas Internas:** Desenvolvimento de utilitários para bancadas de teste e coleta de dados.
+- [**Power BI**](https://powerbi.microsoft.com/): Visualização e análise de dados para tomada de decisão.
+
+</details>
+
+---
+
+## 💼 Experiência Profissional
+
+**Auxiliar de P&D** · Wirebus Technology & Innovation
+Desenvolvimento de hardware, firmware e design de PCB utilizando KiCad. Auxílio direto em projetos de pesquisa e desenvolvimento de produtos eletrônicos.
+
+**Analista Técnico Eletrônico** · MOVPLAN Soluções Educacionais
+Desenvolvimento contínuo com ESP32 e confecção de circuitos impressos. Criação e manutenção de soluções eletrônicas embarcadas.
+
+---
+
+## 🎓 Formação
+
+- **Engenharia Elétrica** · Universidade Paulista — UNIP *(em andamento)*
+- **Técnico em Eletrônica** · Instituto Federal de São Paulo — IFSP
+- **Extensão** · SENAI-SP — Python · C# · IA Generativa · Power BI
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoungKayH&show_icons=true&theme=radical&hide_border=true" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoungKayH&locale=pt-br&layout=compact&theme=radical&hide_border=true" height="190" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngLuizs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngLuizs&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6" height="160" alt="langs"/>
 </div>
 
----
-
-## 🌎 Contato e Redes
-
-Fique à vontade para entrar em contato para conversarmos sobre tecnologia, desenvolvimento ou suporte técnico!
-
-* 💼 **LinkedIn:** [kaylan-henrique-395116327](https://www.linkedin.com/in/kaylan-henrique-395116327)
-* ✉️ **E-mail:** kaylanhenrique.pessoal@gmail.com
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e3a5f&height=120&section=footer"/>
