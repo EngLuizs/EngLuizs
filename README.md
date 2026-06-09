@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ozYWxzeGRic2g2dnN2Z2Z6aWRpdG53NnE1d3lmMTdtcGptcnNsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1xUp52rUnrv1Leakw/giphy.gif" alt="Hardware & PCB Banner">
-</div>
+  <img src="banner.gif" alt="Hardware & PCB Banner">
+  
+  </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&width=500&lines=Ol%C3%A1%2C+sou+Luiz+Henrique;Firmware+Embarcado+%7C+ESP32+%7C+KiCad;Hardware+%2B+Software+na+mesma+sintonia)](https://git.io/typing-svg)
 
